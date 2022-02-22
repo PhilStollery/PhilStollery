@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with SwuftUI and Map Kit
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 4th Dan in Ki Aikido and from Yorkshire
+- ⚡ Fun fact: 4th Dan in Ki Aikido and just started a TaeKwonDo journey
 
 [![Top Langs](https://github-readme-stats-gray-three.vercel.app/api/top-langs/?username=philstollery&theme=radical&hide_border=true)](https://github-readme-stats-gray-three.vercel.app/api/top-langs/?username=philstollery&theme=radical&hide_border=true)
